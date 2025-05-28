@@ -48,7 +48,21 @@
     Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento.
     Escalar automaticamente a implantação de recursos com base na necessidade.
     Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual.
-    1. Por meio de um portal da Web.
-    2. Usando uma interface de linha de comando.
-    3. Usando APIs
-    4. Usando o PowerShell.
+    - Por meio de um portal da Web.
+    - Usando uma interface de linha de comando.
+    - Usando APIs
+    - Usando o PowerShell.
+ 
+-----------------------------------------------------------------------------------------------------
+
+**Laboratório**
+Criando uma máquina virtual.
+
+Acessamos a plataforma Azure, e clicamos em **+ criar um recurso**
+![1](https://github.com/user-attachments/assets/c11f93d6-036b-40ee-b4c0-7148c18e05fd)
+
+Pesquisamos por **máquina virtual**, e clicamos em **criar**
+![2](https://github.com/user-attachments/assets/d4764d52-5404-4afd-82c2-68f0fd43d403)
+
+Por fim definimos nossas configurações necessárias na página de configuração da máquina e avançamos até a etapa de revisão e criação
+![3](https://github.com/user-attachments/assets/a71c3a7d-5b68-4d3b-8e18-e7c5edee3b88)
